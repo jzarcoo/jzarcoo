@@ -20,7 +20,7 @@ I'm a **Computer Science student** with a deep passion for programming and conti
 
 <div align="center">
 
-![Zarco's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jzarcoo&langs_count=9&theme=chartreuse-dark&layout=donut-vertical)
+![Zarco's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jzarcoo&langs_count=10&theme=chartreuse-dark&layout=donut)
 
 </div>
 
