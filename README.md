@@ -13,8 +13,7 @@
 </p>
 -->
 
-I'm a **Computer Science student** with a deep passion for programming and continuous learning. I enjoy delving into diverse areas such as software development, cybersecurity and mathematical algorithms. 
-
+I'm a **Computer Science Student** with a deep passion for programming and continuous learning. I love math and complexity theory, and I’m currently into competitive programming. My main areas of expertise are web development and artificial intelligence.
 
 ## 📊 Stats
 
