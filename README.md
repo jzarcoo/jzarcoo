@@ -15,14 +15,15 @@
 
 I'm a **Computer Science Student** with a deep passion for programming and continuous learning. I love math and complexity theory, and I’m currently into competitive programming. My main areas of expertise are web development and artificial intelligence.
 
-## 📊 Stats
-
-<div align="center">
-
-![Zarco's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jzarcoo&langs_count=11&theme=chartreuse-dark&layout=donut)
-
-</div>
-
+<!--
+1. ## 📊 Stats
+2. 
+3. <div align="center">
+4. 
+5. ![Zarco's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jzarcoo&langs_count=11&theme=chartreuse-dark&layout=donut)
+6. 
+7. </div>
+-->
 <!--
 **jzarcoo/jzarcoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
